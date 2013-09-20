@@ -1,0 +1,166 @@
+
+/* mostly basic or repeatedly used styles go here */
+
+html {
+    margin:0;
+    padding:0;
+}
+body {
+    background: #fff;
+    /*
+    background: -moz-linear-gradient(top, #fff, #eee);
+    background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#eee));*/
+    height: auto;
+    overflow: Auto;
+    font-size:13px;
+    font-family: Tahoma, Geneva, sans-serif;
+    line-height: 1.4;
+    margin:0;
+    padding:0;
+    color:#2E4E61;
+}
+
+table {
+	    font-size:13px;
+	}
+h1 {margin:0; padding:0; font-weight:bold; line-height:1; font-size:13px;color:#93C2DE;
+text-shadow: 1px 1px 2px #032F49; display:inline;
+}
+
+/*
+h2 {
+    /*master widget headings
+    font-weight:bold;
+    line-height:1;
+    font-size:18px;
+    margin:0px;
+    padding:0px;
+    margin-bottom:5px;
+    color:#186C9D;
+    text-shadow: 1px 1px 1px #2E4E61; 
+}
+*/
+
+
+h3 {
+    /*widget headings*/
+    font-weight:bold;
+    line-height:1;
+    font-size:18px;
+    margin:0px;
+    padding:0px;
+    margin-bottom:5px;
+    color:#93C2DE;
+    text-shadow: 1px 1px 1px #032F49;
+    display:inline;
+}
+
+
+a{
+    font-weight:bold;
+    text-decoration: none;
+    color:#2E4E61;
+}
+
+a:hover{
+    font-weight:bold;
+    color: #061D36;
+}
+
+img {
+    border: 0px;
+}
+
+ul { margin-top:0;}
+
+/***********************************/
+.main {
+    width:1015px;
+    margin:0;
+    padding-left:5px;
+    padding-top:0;
+    background: #fff;    
+}
+.CB { clear: both; }
+.FL { float: left;}
+.widget {
+    border: 1px solid #2E4E61; 
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    
+    background: #fff;
+    background: -moz-linear-gradient(top, #fff, #eee);
+    background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#eee));
+    
+    box-shadow: 3px 3px 3px #000000;
+    -moz-box-shadow: 3px 3px 3px #000000;
+    -webkit-box-shadow: 3px 3px 3px #000000;
+    
+    padding:5px;
+    margin:10px;
+    
+    color:#2E4E61;
+    height:auto;
+}
+.masterWidget {
+    /*
+    border: 0px solid #2E4E61; 
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    */
+    
+    /*
+    background: ##2E4E61;
+    background: -moz-linear-gradient(top, #93C2DE, #2E4E61);
+    background: -webkit-gradient(linear, left top, left bottom, from(#93C2DE), to(#2E4E61));
+    */
+
+    /*
+    box-shadow: 3px 3px 3px #000000;
+    -moz-box-shadow: 3px 3px 3px #000000;
+    -webkit-box-shadow: 3px 3px 3px #000000;
+    */
+    padding:5px;
+    margin:10px;
+    color:#2E4E61;
+    background: #fff;    
+}
+
+.menuItem {
+    float:right;
+    margin-left:10px; 
+    margin-right:10px;
+    margin-top:0;
+    margin-bottom:0;
+    padding-top:0;
+    padding-bottom:0;
+    color:#93C2DE;
+}
+
+.menuItemActive{
+    font-weight:bold;
+    color:#fff;
+    text-shadow: 1px 1px 2px #032F49;
+    text-decoration:none;                
+}
+
+.menuItem a {
+    color:#93C2DE;
+    text-shadow: 1px 1px 2px #032F49;
+    text-decoration:none;
+}
+.menuItem a:hover {
+    color:#fff;
+    text-shadow: 1px 1px 2px #93C2DE;
+}
+
+
+/*
+colors
+    namecoin logo: 186C9D
+    very light 93C2DE  headers
+    dark 2E4E61	 text, borders
+    very dark 032F49	all shadows
+*/
