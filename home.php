@@ -21,7 +21,15 @@
     <div class="masterWidget" style="float:right;padding-right:0;margin-right:0;padding-top:0;margin-top:0">
         <div class="widget" style="width:300px;">
             <h3>Download</h3><br>
-            Version 3.50.00<br>
+            Version Q.3.71c<br>
+            &nbsp;&nbsp;Qt GUI and daemon.<br>
+            &nbsp;&nbsp;<a target="_blank" href="https://github.com/namecoinq/namecoinq/tree/vQ.3.71c">Sources on Github</a><br>
+            &nbsp;&nbsp;<a href="http://namecoin.info/files/namecoin_win_vQ.3.71c.zip">Windows binary</a><br>
+            &nbsp;&nbsp;Mac binary - to come<br>
+            &nbsp;&nbsp;<a target="_blank" href="https://bitcointalk.org/index.php?topic=236340.msg2518980#msg2518980">Hashes on Bitcointalk</a><br>
+            <br>
+            Version 0.3.50<br>
+            &nbsp;&nbsp;daemon only<br>
             &nbsp;&nbsp;<a href="http://dot-bit.org/files/namecoin_linux32.tgz">Linux 32bit</a> by Khal<br>
             &nbsp;&nbsp;<a href="http://dot-bit.org/files/namecoin_linux64.tgz">Linux 64bit</a> by Khal<br>
             &nbsp;&nbsp;<a href="http://namecoin.info/files/namecoind_v350_win32.zip">Windows</a> by phelix<br>
