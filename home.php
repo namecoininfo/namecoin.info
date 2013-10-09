@@ -70,20 +70,93 @@
 
     <!-- main widgets -->
     <div class="masterWidget">
-        <h3>What is Namecoin</h3><br>
-        Namecoin is an open source decentralized key/value registration and transfer system based on <a href="http://bitcoin.org" target="_blank">Bitcoin</a> technology (a decentralized cryptocurrency).<br>
-        <br>
-        It allows you to:
+        <h3>What is Namecoin?</h3><br>
+        <p>Namecoin is a revolutionary new free, open-source software and network which decentralizes and improves security for many Internet applications, such as websites (domain names, HTTPS, and website logins) and private communication (Off-the-Record IM and Bitmessage). As <a href="http://bitcoin.org" target="_blank">Bitcoin</a> (a decentralized cryptocurrency) frees money, Namecoin frees access to information. Namecoin works by implementing a decentralized, secure key/value registration and transfer system using Bitcoin technology (don't worry if you don't know what that means). Namecoin-enabled services cannot be censored or hijacked by most adversaries, in the same way that Bitcoin currency cannot be frozen or seized by most adversaries. Namecoin-enabled services also offer a greater degree of privacy than many non-Namecoin alternatives.</p>
+
+        <p>Note that Namecoin is a work-in-progress, and should not be used (yet) in situations where censorship or hijacking could result in severe loss of property or danger to personal safety.</p>
+        
+        <h3>Uses for Websites</h3>
+
+        <p>Namecoin has the following uses for website security, privacy, and censorship resistance:</p>
+
         <ul>
-            <li>Securely register and transfer arbitrary names (keys), no possible censorship!</li>
-            <li>Attach values (data) to the names (currently up to 520 bytes, will be extended)</li>
-            <li>Trade and transact namecoins, the digital currency NMC </li>
+            <li>
+            Domain Name System (.bit DNS)
+            <ul>
+                <li>Domain names are the words you type into a web browser (e.g. "www.google.com") which allow the browser to find the correct website.</li>
+                <li>Namecoin offers a new type of domain name (domain names ending in ".bit") which enables new features not possible with standard domains such as ".com" domains.</li>
+                <li>Most domains can be seized or blocked by governments and corporations who don't like the website in question.  In contrast, .bit domains are not subject to censorship like other domains are.</li>
+                <li>Most domains can be hijacked by a malicious user on your network (or your ISP itself), directing you to the wrong website.  This could be used to steal important personal information, money, or your identity.  In contrast, .bit domains cannot be hijacked like other domains can.</li>
+                <li>Most domains require you to tell a server (run by a corporation) every time you visit a website, which threatens your privacy.  Looking up a .bit domain does not produce any network traffic, which provides better anonymity than other domains.</li>
+                <?php if(false) { ?>
+                <li>Learn how to register or update a .bit domain.</li>
+                <li>Learn how to view .bit domains.</li>
+                <?php } ?>
+            </ul>
+            </li>
+
+            <li>
+            HTTPS Authentication (NMCSEC)
+            <ul>
+                <li>HTTPS is the encryption system which protects your communications with secure websites like banks and stores.</li>
+                <li>All .bit websites can use HTTPS (called NMCSEC).</li>
+                <li>Unlike traditional HTTPS which requires relying on a corporation or government to identify a website (which results in major security problems when that corporation or government makes a mistake or has malicious intent), NMCSEC can securely make sure you're talking to the correct website without relying on any corporation or government.</li>
+                <li>Unlike traditional HTTPS where website owners have to pay recurring fees for certficates, NMCSEC is free for any website owner who has a .bit domain.</li>
+            </ul>
+            </li>
+            
+            <li>
+            Website Login (NameID)
+            <ul>
+                <li>Normally, websites are responsible for handling their users' passwords.  This poses security risks, especially if users use the same password on multiple websites.</li>
+                <li>Namecoin allows logging into websites without needing passwords (NameID).</li>
+                <li>With NameID, if a website is compromised or has their database leaked, users don't need to change passwords.</li>
+                <li>Unlike centralized alternatives like using Facebook or Google to sign into multiple websites, NameID allows using as few or as many identities as you want, without allowing a corporation to see every website you sign into.</li>
+                <li>NameID can be implemented on any website, regardless of whether the website supports .bit or NMCSEC.</li>
+                <li>Users can use NameID on websites without specific support, by using a NameID-supporting OpenID provider.  (Note that this reduces security compared to the website having built-in support.)</li>
+                <?php if(false) { ?>
+                <li>Learn how to make your website support NameID.</li>
+                <li>Learn how to log into websites with NameID.</li>
+                <?php } ?>
+            </ul>
+            </li>
         </ul>
 
-        There are plenty of possible use cases. Some examples:
+        <h3>Uses for Private Communication</h3>
+
+        <p>Namecoin has the following uses for private communication:</p>
+
         <ul>
-            <li>DNS: domain_name => domain_zone_configuration (also for i2p, Tor)</li>
-            <li>TLS: https like encryption and secure identification by Namecoin domain/ID/name
+            <li>
+            OTR (Off-the-Record) Instant Messaging
+            <ul>
+                <li>OTR is a feature in many IM programs (e.g. Pidgin) which encrypts messages.</li>
+                <li>In OTR, users are identified by their "fingerprints" (a long number which only they have control over).</li>
+                <li>Namecoin can be used to automatically lookup OTR fingerprints without relying on centralized servers.</li>
+                <?php if(false) { ?>
+                <li>Learn how to automatically lookup other users' OTR fingerprints.</li>
+                <li>Learn how to make your OTR fingerprint verifiable with Namecoin.</li>
+                <?php } ?>
+            </ul>
+            </li>
+
+            <li>
+            Bitmessage
+            <ul>
+                <li>Bitmessage is a peer-to-peer (serverless) e-mail alternative which encrypts messages and aims for anonymity.</li>
+                <li>In Bitmessage, users are identified by their address (a random sequence of letters and numbers).</li>
+                <li>Namecoin can be used to convert human-memorable usernames into Bitmessage addresses.</li>
+                <?php if(false) { ?>
+                <li>Learn how to send messages to Namecoin-enabled users with Bitmessage.</li>
+                <li>Learn how to give your Bitmessage address a human-memorable username.</li>
+                <?php } ?>
+            </ul>
+        </ul>
+
+        <h3>Unimplemented Uses</h3>
+
+        <p>Other proposed (but unimplemented so far) uses include:</p>
+        <ul>
             <li>Alias/Identity: user_name => user_public_identity (email, name, gpg key, BTC-adress, etc)</li>
             <li>Timestamping: document_hash => document_infos (name, hash, owner, etc)</li>
             <li>Broadcasting / Messaging</li>
@@ -93,12 +166,19 @@
             <li>Torrent tracker</li>
         </ul>
 
-        To register a name, you must own some namecoins (NMC, the internal cryptocurrency used by the software).<br>
-        <br>
-        Find more information in the <a target="_blank" href="http://dot-bit.org/Namecoin_Projects">dot-bit wiki</a>.
-        <br>
-        <br>
-        <br>        
+        <h3>For Developers and Technical Users</h3>
+
+        <p>For software developers and technical users, Namecoin allows you to:</p>
+        <ul>
+            <li>Securely register and transfer arbitrary names (keys), no possible censorship!</li>
+            <li>Attach values (data) to the names (currently up to 520 bytes, will be extended)</li>
+            <li>Trade and transact namecoins, the digital currency NMC </li>
+        </ul>
+
+        <p>To register a name, you must own some namecoins (NMC, the internal cryptocurrency used by the software).</p>
+
+        <p>Find more information in the <a target="_blank" href="http://dot-bit.org/Namecoin_Projects">dot-bit wiki</a>.</p>
+   
         <h3>News</h3><br>
         <?php
             //~ $n = new NewsTable();
