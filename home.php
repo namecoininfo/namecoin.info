@@ -39,7 +39,7 @@
             BTC: 17Si1rdVd6gaYbwLq9NkXtGV9Qzt3NmTKa<br>
         </div>
         <div class="widget">
-            <h3>Exchanges</h3>
+            <h3>Exchanges</h3> - <a target="_blank" href="http://dot-bit.org/Trade">details on the wiki</a>
             <ul>
                 <li><a target="_blank" href="https://btc-e.com">btc-e</a></li>
                 <li><a target="_blank" href="https://cryptonit.net">cryptonit</a></li>
