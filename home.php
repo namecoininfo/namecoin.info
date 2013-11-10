@@ -26,7 +26,7 @@
             &nbsp;&nbsp;<a target="_blank" href="https://github.com/namecoinq/namecoinq/tree/vQ.3.72">Sources on Github</a><br>
             &nbsp;&nbsp;<a href="http://namecoin.info/files/namecoin_win_vQ.3.72.zip">Windows binary</a><br>
             &nbsp;&nbsp;Mac binary - ?<br>
-            &nbsp;&nbsp;<a target="_blank" href="https://bitcointalk.org/index.php?topic=236340.msg2518980#msg2518980">Hashes on Bitcointalk</a><br>
+            &nbsp;&nbsp;<a target="_blank" href="https://bitcointalk.org/index.php?topic=236340.msg3436752#msg3436752">Hashes on Bitcointalk</a><br>
             <br>
             Older versions and more<br>
             &nbsp;&nbsp;<a href="http://dot-bit.org/files/">http://dot-bit.org/files/<br> 
@@ -41,9 +41,11 @@
         <div class="widget">
             <h3>Exchanges</h3>
             <ul>
-                <li><a target="_blank" href="http://vircurex.com">Vircurex</a><br>    </li>
-                <li><a target="_blank" href="http://btc-e.com">btc-e</a></li>
+                <li><a target="_blank" href="https://btc-e.com">btc-e</a></li>
+                <li><a target="_blank" href="https://cryptonit.net">cryptonit</a></li>
+                <li><a target="_blank" href="https://kraken.com">Kraken</a><br>    </li>                
                 <li><a target="_blank" href="http://liliontransfer.org">Lilion Transfer</a></li>
+                <li><a target="_blank" href="https://vircurex.com">Vircurex</a><br>    </li>                
             </ul>
         </div>               
         <div class="widget">
@@ -55,8 +57,9 @@
 				        (<a target="_blank" href="http://bitse.uberbills.com">basic dns</a>)<br>  </li>                        
                 <li><a target="_blank" href="http://explorer.bit">Namecoin Block Explorer</a> 
                         (<a target="_blank" href="http://explorer.dot-bit.org/">basic dns</a>)<br>  </li>
+                <li><a target="_blank" href="http://dc-charts.com/?dc=2&ex=0&cu=0&sw=0&dl=1&sc=0">dc-charts</a></li>
                 <li><a target="_blank" href="http://nx.bit">nx.bit</a> 
-                        (<a target="_blank" href="http://bitcoinx.com/namecoin">basic dns</a>) </li>                        
+                        (<a target="_blank" href="http://blockchained.com/namecoin">basic dns</a>) </li>
             </ul>
         </div>        
     </div>
