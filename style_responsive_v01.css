@@ -1,0 +1,60 @@
+
+/* mobile-responsive styles go here */
+@media (max-width: 550px) {
+
+  html, body, .main {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  .main {
+    padding: 15px 5px;
+  }
+
+  /* title header */
+  body > div:first-child > div:last-child {
+    width: 100% !important;
+  }
+  h1 {
+    display: block;
+  }
+  .menuItem {
+    width: 15%;
+  }
+
+  /* main description and general sections */
+  .masterWidget {
+    display: table-header-group;
+  }
+  h3 {
+    line-height: 2;
+  }
+
+  /* Namecoin Projects list */
+  .masterWidget:last-child {
+    display: table-row-group;
+  }
+
+  /* boxes from right side repositioned to end */
+  .masterWidget:first-child {
+    display: table-footer-group;
+    float: none !important;
+  }
+  .widget {
+    border: none;
+    padding: 10px 0;
+    margin: 6px 0;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    text-align: center;
+    width: 100% !important;
+  }
+  .widget ul {
+    text-align: left;
+  }
+  .widget li {
+    margin-bottom: 6px;
+  }
+}
