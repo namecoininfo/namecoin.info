@@ -6,7 +6,7 @@
         <link rel="shortcut icon" href="./gfx/favicon.ico" type="image/icon-x" />        
         <title>Namecoin</title>
         <link rel="stylesheet" href="style_v01.css" type="text/css">
-        <link rel="stylesheet" href="style_responsive_v01.css" type="text/css" media="all and (min-width:500px)">
+        <link rel="stylesheet" href="style_responsive_v01.css" type="text/css">
     </head>
 <body>
 
