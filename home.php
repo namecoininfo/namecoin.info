@@ -45,7 +45,8 @@
                 <li><a target="_blank" href="https://cryptonit.net">cryptonit</a></li>
                 <li><a target="_blank" href="https://kraken.com">Kraken</a><br>    </li>                
                 <li><a target="_blank" href="http://liliontransfer.org">Lilion Transfer</a></li>
-                <li><a target="_blank" href="https://vircurex.com">Vircurex</a><br>    </li>                
+                <li><a target="_blank" href="https://vircurex.com">Vircurex</a><br>    </li>
+                <li><a target="_blank" href="https://24change.com">24change</a><br>    </li>
             </ul>
         </div>               
         <div class="widget">
