@@ -157,6 +157,16 @@
             
     </div>
 
+    <div class="masterWidget" style="width:500px">
+    <h3>Bounties</h3><br>
+        There is a <a target="_blank" href="https://dot-bit.org/forum/viewforum.php?f=18">bounties board</a>
+        on the Namecoin forum.<br>
+        
+    </div>
+
+
+
+
 </div>
 
 <?php require("footer.inc"); ?>
