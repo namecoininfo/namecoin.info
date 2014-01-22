@@ -20,7 +20,7 @@
     <!-- right side widgets -->
     <div class="masterWidget" style="float:right;padding-right:0;margin-right:0;padding-top:0;margin-top:0">
         <div class="widget" style="width:300px;">
-            <h3>Download</h3><br>
+            <h3>Download Wallet</h3><br>
             Version Q.3.72<br>
             &nbsp;&nbsp;Qt GUI and daemon.<br>
             &nbsp;&nbsp;<a target="_blank" href="https://github.com/namecoinq/namecoinq/tree/vQ.3.72">Sources on Github</a><br>
