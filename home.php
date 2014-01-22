@@ -115,10 +115,9 @@
             //~ $n->set_columns_width(array("70px", "5px", ""));
             //~ hte($n->get_table());        
         ?>
-          <font color=red>A severe bug was found in the name verification code. It has been fixed as of version Q.3.72<br>
+          2013-10-29 A severe bug was found in the name verification code. It has been fixed as of version Q.3.72<br>
           <b>Only trust the fixed version Q.3.72 or higher with names!</b><br>
-          Until block height 150000 your NMC should be safe with other versions, too - but by then everybody needs to have upgraded.<br>
-          </font><br>
+          <br>
           For the latest news
 		go to the <a target="_blank" href="http://dot-bit.org/forum/">dot-bit forum</a> or
 		check out <a target="_blank" href="http://reddit.com/r/namecoin">r/namecoin</a>.
