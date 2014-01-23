@@ -23,7 +23,7 @@
             <h3>Download Wallet</h3><br>
             Version Q.3.72<br>
             &nbsp;&nbsp;Qt GUI and daemon.<br>
-            &nbsp;&nbsp;<a target="_blank" href="https://github.com/namecoinq/namecoinq/tree/vQ.3.72">Sources on Github</a><br>
+            &nbsp;&nbsp;<a target="_blank" href="https://github.com/namecoin/namecoin/tree/vQ.3.72">Sources on Github</a><br>
             &nbsp;&nbsp;<a href="http://namecoin.info/files/namecoin_win_vQ.3.72.zip">Windows binary</a><br>
             &nbsp;&nbsp;Mac binary - ?<br>
             &nbsp;&nbsp;<a target="_blank" href="https://bitcointalk.org/index.php?topic=236340.msg3436752#msg3436752">Hashes on Bitcointalk</a><br>
