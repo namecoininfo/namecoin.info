@@ -30,7 +30,7 @@
             &nbsp;&nbsp;<a target="_blank" href="https://bitcointalk.org/index.php?topic=236340.msg3436752#msg3436752">Hashes on Bitcointalk</a><br>
             <br>
             Older versions and more<br>
-            &nbsp;&nbsp;<a href="http://dot-bit.org/files/">http://dot-bit.org/files/<br> 
+            &nbsp;&nbsp;<a href="http://dot-bit.org/files/">http://dot-bit.org/files/</a><br> 
             <br>
         </div>
         <div class="widget" style="width:300px;">
