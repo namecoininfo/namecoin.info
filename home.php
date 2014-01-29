@@ -41,9 +41,11 @@
         </div>
         <div class="widget" style="width:300px;">
             <h3>Announces</h3><br>
-            Alerts : <a target="_blank" href="http://dot-bit.org/forum/viewtopic.php?f=19&t=1524">mailing list</a><br>
-            Twitter : <a target="_blank" href="https://twitter.com/NamecoinDotInfo">@NamecoinDotInfo</a><br>
-            Important announcements : <a target="_blank" href="http://dot-bit.org/forum/viewforum.php?f=19">forum</a><br>
+            <ul>
+                <li>Alerts : <a target="_blank" href="http://dot-bit.org/forum/viewtopic.php?f=19&t=1524">mailing list</a></li>
+                <li>Twitter : <a target="_blank" href="https://twitter.com/NamecoinDotInfo">@NamecoinDotInfo</a></li>
+                <li>Important announcements : <a target="_blank" href="http://dot-bit.org/forum/viewforum.php?f=19">forum</a></li>
+            </ul>
         </div>
         <div class="widget">
             <h3>Exchanges</h3> - <a target="_blank" href="http://dot-bit.org/Trade">details on the wiki</a>
