@@ -26,7 +26,7 @@
             &nbsp;&nbsp;<a target="_blank" href="https://github.com/namecoin/namecoin/tree/vQ.3.72">Sources on Github</a><br>
             &nbsp;&nbsp;<a href="http://namecoin.info/files/namecoin_win_vQ.3.72.zip">Windows binary</a><br>
             &nbsp;&nbsp;<a href="http://software.opensuse.org/download.html?project=home%3Ap_conrad%3Acoins&package=namecoin">Linux packages</a><br>
-            &nbsp;&nbsp;Mac binary - ?<br>
+            &nbsp;&nbsp;Mac binary - N/A<br>
             &nbsp;&nbsp;<a target="_blank" href="https://bitcointalk.org/index.php?topic=236340.msg3436752#msg3436752">Hashes on Bitcointalk</a><br>
             <br>
             Older versions and more<br>
@@ -38,6 +38,12 @@
             <a target="_blank" href="http://dot-bit.org/forum/viewtopic.php?f=5&t=473">Namecoin marketing and development fund</a>.<br>
             NMC: NDtPuyg3adscr6HCE1GUiSsKPtA8ewKgz3<br>
             BTC: 17Si1rdVd6gaYbwLq9NkXtGV9Qzt3NmTKa<br>
+        </div>
+        <div class="widget" style="width:300px;">
+            <h3>Announces</h3><br>
+            Alerts : <a target="_blank" href="http://dot-bit.org/forum/viewtopic.php?f=19&t=1524">mailing list</a><br>
+            Twitter : <a target="_blank" href="https://twitter.com/NamecoinDotInfo">@NamecoinDotInfo</a><br>
+            Important announcements : <a target="_blank" href="http://dot-bit.org/forum/viewforum.php?f=19">forum</a><br>
         </div>
         <div class="widget">
             <h3>Exchanges</h3> - <a target="_blank" href="http://dot-bit.org/Trade">details on the wiki</a>
