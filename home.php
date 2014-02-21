@@ -35,16 +35,16 @@
         </div>
         <div class="widget" style="width:300px;">
             <h3>Donate</h3><br>
-            <a target="_blank" href="http://dot-bit.org/forum/viewtopic.php?f=5&t=473">Namecoin marketing and development fund</a>.<br>
+            <a target="_blank" href="http://forum.namecoin.info/viewtopic.php?f=5&t=473">Namecoin marketing and development fund</a>.<br>
             NMC: NDtPuyg3adscr6HCE1GUiSsKPtA8ewKgz3<br>
             BTC: 17Si1rdVd6gaYbwLq9NkXtGV9Qzt3NmTKa<br>
         </div>
         <div class="widget" style="width:300px;">
             <h3>Announces</h3><br>
             <ul>
-                <li>Alerts : <a target="_blank" href="http://dot-bit.org/forum/viewtopic.php?f=19&t=1524">mailing list</a></li>
+                <li>Alerts : <a target="_blank" href="http://forum.namecoin.info/viewtopic.php?f=19&t=1524">mailing list</a></li>
                 <li>Twitter : <a target="_blank" href="https://twitter.com/NamecoinDotInfo">@NamecoinDotInfo</a></li>
-                <li>Important announcements : <a target="_blank" href="http://dot-bit.org/forum/viewforum.php?f=19">forum</a></li>
+                <li>Important announcements : <a target="_blank" href="http://forum.namecoin.info/viewforum.php?f=19">forum</a></li>
             </ul>
         </div>
         <div class="widget">
@@ -68,7 +68,7 @@
                 <li><a target="_blank" href="http://bitse.bit">Dot-Bit Search Engine</a>
 				        (<a target="_blank" href="http://bitse.uberbills.com">basic dns</a>)<br>  </li>                        
                 <li><a target="_blank" href="http://explorer.bit">Namecoin Block Explorer</a> 
-                        (<a target="_blank" href="http://explorer.dot-bit.org/">basic dns</a>)<br>  </li>
+                        (<a target="_blank" href="http://explorer.namecoin.info/">basic dns</a>)<br>  </li>
                 <li><a target="_blank" href="http://dc-charts.com/?dc=2&ex=0&cu=0&sw=0&dl=1&sc=0">dc-charts</a></li>
                 <li><a target="_blank" href="http://nx.bit">nx.bit</a> 
                         (<a target="_blank" href="http://blockchained.com/namecoin">basic dns</a>) </li>
@@ -111,16 +111,16 @@
         <?php
             //~ $n = new NewsTable();
             //~ $n->add_row("2012-09-25", "", "Finally the release version for windows: " . 
-                         //~ anchor("http://dot-bit.org/forum/viewtopic.php?p=3051#p3051", "v3.50 win32 build", 1));
+                         //~ anchor("http://forum.namecoin.info/viewtopic.php?p=3051#p3051", "v3.50 win32 build", 1));
             
             //~ $n->add_row("2012-06-10", "", "New higher level frontend: " . 
-                         //~ anchor("http://dot-bit.org/forum/viewtopic.php?f=8&t=525", "NMControl", 1));
+                         //~ anchor("http://forum.namecoin.info/viewtopic.php?f=8&t=525", "NMControl", 1));
             
             //~ $n->add_row("2012-05-26", "", "Out now: " . 
-                         //~ anchor("http://dot-bit.org/forum/viewtopic.php?f=8&t=500", "v3.50", 1));
+                         //~ anchor("http://forum.namecoin.info/viewtopic.php?f=8&t=500", "v3.50", 1));
 
             //~ $n->add_row("2012-05-25", "", "New rpc command: " . 
-                         //~ anchor("http://dot-bit.org/forum/viewtopic.php?f=8&t=499", "sendtoname", 1));
+                         //~ anchor("http://forum.namecoin.info/viewtopic.php?f=8&t=499", "sendtoname", 1));
 
 
             //~ $n->set_columns_width(array("70px", "5px", ""));
@@ -130,7 +130,7 @@
           <b>Only trust the fixed version Q.3.72 or higher with names!</b><br>
           <br>
           For the latest news
-		go to the <a target="_blank" href="http://dot-bit.org/forum/">dot-bit forum</a> or
+		go to the <a target="_blank" href="http://forum.namecoin.info/">dot-bit forum</a> or
 		check out <a target="_blank" href="http://reddit.com/r/namecoin">r/namecoin</a>.
         <?php //        or subscribe to the <a target="_blank" href="https://twitter.com/NamecoinDotInfo">twitter account</a>.<br> ?>
         <br>
@@ -148,7 +148,7 @@
             //~ <h3>Dot-BIT</h3><br>
                 //~ A p2p dns system - dot-bit is the first project using namecoin:<br>
                 //~ <a target="_blank" href="http://dot-bit.org">dot-bit wiki website</a> - also the general Namecoin wiki<br>
-                //~ <a target="_blank" href="http://dot-bit.org/forum/index.php">dot-bit forum</a> - also the general Namecoin forum<br>
+                //~ <a target="_blank" href="http://forum.namecoin.info/index.php">dot-bit forum</a> - also the general Namecoin forum<br>
         //~ </div>
 
         //~ <div class="widget">
@@ -170,7 +170,7 @@
 
     <div class="masterWidget" style="width:500px">
     <h3>Bounties</h3><br>
-        There is a <a target="_blank" href="https://dot-bit.org/forum/viewforum.php?f=18">bounties board</a>
+        There is a <a target="_blank" href="http://forum.namecoin.info/viewforum.php?f=18">bounties board</a>
         on the Namecoin forum.<br>
         
     </div>
