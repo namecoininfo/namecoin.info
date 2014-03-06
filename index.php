@@ -23,10 +23,10 @@ $header = array('<strong>In information</strong><br />we <strong>trust</strong>.
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Namecoin</title>
 
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
-    <link rel="shortcut icon" href="/images/favicon.ico">
+    <link href="css/style.css" rel="stylesheet">
+    <link rel="shortcut icon" href="images/favicon.ico">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -34,9 +34,9 @@ $header = array('<strong>In information</strong><br />we <strong>trust</strong>.
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <script src="/js/jquery-1.11.0.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/script.js"></script>
+    <script src="js/jquery-1.11.0.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/script.js"></script>
   </head>
   <body>
     <header>
@@ -49,7 +49,7 @@ $header = array('<strong>In information</strong><br />we <strong>trust</strong>.
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                       </button>
-                      <a class="navbar-brand" href="/"><img src="/images/logo.png" alt="Namecoin" /></a>
+                      <a class="navbar-brand" href="/"><img src="images/logo.png" alt="Namecoin" /></a>
                 </div>
                 <div class="navbar-collapse collapse" id="navbar-collapse">
                 <ul class="nav navbar-nav navbar-left">
@@ -59,7 +59,7 @@ $header = array('<strong>In information</strong><br />we <strong>trust</strong>.
                     <li><a href="https://wiki.namecoin.info">Wiki</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="<?=$download?>"><a href="/download"><span class="glyphicon glyphicon-download-alt"></span> Download wallet!</a></li>
+                    <li class="<?=$download?>"><a href="#download"><span class="glyphicon glyphicon-download-alt"></span> Download</a></li>
                 </ul>
                 </div>
             </div>

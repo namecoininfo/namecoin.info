@@ -1,25 +1,45 @@
-<p class="lead"><em>Namecoin</em> is an open source decentralized key/value registration and transfer system based on <a href="https://bitcoin.org/" title="a decentralized cryptocurrency">Bitcoin</a> technology.</p>
-<p>To register a name, you must own some namecoins (NMC, the internal cryptocurrency used by the software).</p>
+<p class="lead"><em>Namecoin</em> is a cryptocurrency which enables ubiquitous, <strong>uncensorable</strong>, and <strong>secure</strong> communications online. 
+</p>
 <div class="row">
     <div class="col-md-6">
-        <h2>What does it do?</h2>
+      <h2>What does it do?</h2>
+      <p><strong>Protects free-speech rights</strong> online by making the web more resistant to censorship.</p>
         <ul>
-            <li>Securely register and transfer arbitrary names (keys), no possible censorship!</li>
-            <li>Attach values (data) to the names (currently up to 520 bytes, will be extended).</li>
-            <li>Trade and transact namecoins, the digital currency (sign: ℕ; code: NMC).</li>
+            <li>Stops governments from seizing websites.</li>
+            <li>Replaces the insecure system of SSL certificate authorities.</li>
+            <li><a href="https://wiki.namecoin.info/index.php?title=Proxies">Proxies</a> users to censored websites.</li>
+        </ul>
+        <p>Read about <a href="http://www.aaronsw.com/weblog/squarezooko">squaring Zooko's Triangle</a>.</p>
+    </div>
+    <div class="col-md-6">
+        <h2>What can it be used for?        </h2>
+        <p><strong>Anything</strong> you can create using a <strong>generic key/value datastore</strong>.</p>
+        <ul>
+            <li>Website addresses  using the <a href="https://dot-bit.org">.bit </a>domain.</li>
+            <li>Storing <a href="http://id.namecoin.info/">identity information</a> such as email, GPG key, BTC address, TLS fingerprints, etc.</li>
+            <li>Private, secure, and decentralized messaging.</li>
+            <li>Decentralized trades, escrow, and notary services.</li>
         </ul>
     </div>
     <div class="col-md-6">
-        <h2>What can it be used for?</h2>
-        <p>Namecoin has many uses, including but not limited to:</p>
+        <h2>Donate</h2>
+        <p>Help keep us <strong>strong</strong>.</p>
         <ul>
-            <li><abbr title="Domain Name System" class="initialism">DNS</abbr> and <abbr title="Transport Layer Security" class="initialism">TLS</abbr>, using the <a href="https://dot-bit.org">.bit TLD</a>.</li>
-            <li>Identity: storing information such as email, GPG key, BTC address, etc.</li>
-            <li>Timestamp/notary system.</li>
-            <li>Broadcasting and messaging.</li>
-            <li>Torrent tracker (via magnet links).</li>
+            <li>NMC: NDtPuyg3adscr6HCE1GUiSsKPtA8ewKgz3</li>
+            <li>BTC: 17Si1rdVd6gaYbwLq9NkXtGV9Qzt3NmTKa</li>
         </ul>
     </div>
+    <div class="col-md-6">
+        <h2>Annoucements</h2>
+        <ul>
+            <li><a href="https://twitter.com/NamecoinDotInfo">Twitter @NamecoinDotInfo</a></li>
+            <li><a href="http://forum.namecoin.info/viewtopic.php?f=19&t=1524">Alerts Mailing List</a></li>
+            <li><a href="http://forum.namecoin.info/viewforum.php?f=19">Announcements Forum Thread</a></li>
+        </ul>
+    </div>
+  <div class="col-md-12" id="download">
+     <h2>Download</h2>
+    <?php include 'download.php' ?>
 </div>
 <p>Find more information in the <a href="http://dot-bit.org/Namecoin_Projects">dot-bit wiki</a>.</p>
 <h2>News</h2>
