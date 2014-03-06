@@ -1,10 +1,12 @@
 <html>
     <head>
         <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+        <meta name="viewport" content="width=device-width, user-scalable=no">
         <link rel="icon" type="image/icon-x" href="./gfx/favicon.ico" />
         <link rel="shortcut icon" href="./gfx/favicon.ico" type="image/icon-x" />        
         <title>Namecoin</title>
         <link rel="stylesheet" href="style_v01.css" type="text/css">
+        <link rel="stylesheet" href="style_responsive_v01.css" type="text/css">
     </head>
 <body>
 
