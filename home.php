@@ -126,10 +126,7 @@
             //~ $n->set_columns_width(array("70px", "5px", ""));
             //~ hte($n->get_table());        
         ?>
-          2014-04-09 II<b> Heartbleed - namecoin.info sub sites:</b> Unfortunately we ran into a stupid issue when updating the servers
-          to fix the Heartbleed bug. All namecoin.info subdomain websites (including the forum but not this site) will be shut down until we
-          got it sorted out and the servers are secure again.<br>
-          2014-04-09 I<b> Heartbleed - client:</b> Do not use the (non default) option rpcssl=1 in the current client version.
+          2014-04-09<b> Heartbleed - client:</b> Do not use the (non default) option rpcssl=1 in the current client version.
           This option is rather uncommon and during a scan this night we could not find any vulnerable nodes running (Thanks Ryan!).<br>
           2013-10-29 A severe bug was found in the name verification code. It has been fixed as of version Q.3.72<br>
           <b>Only trust the fixed version Q.3.72 or higher with names!</b><br>
