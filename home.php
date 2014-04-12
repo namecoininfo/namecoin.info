@@ -127,7 +127,7 @@
             //~ hte($n->get_table());        
         ?>
           2014-04-09<b> Heartbleed - client:</b> Do not use the (non default) option rpcssl=1 in the current client version.
-          This option is rather uncommon and during a scan this night we could not find any vulnerable nodes running (Thanks Ryan!).<br>
+          This option is rather uncommon and during a scan this night we could not find any vulnerable nodes running (Thanks Ryan!).  If you have EVER used this feature and it is possible that an untrusted user was ever able to access your RPC port, you should assume that your wallet has been compromised.  If this is the case, backup your old wallet, create a new wallet, and transfer all of your coins and names into the new wallet.  Do not re-enable the rpcssl=1 option until we release a fixed client.<br>
           2013-10-29 A severe bug was found in the name verification code. It has been fixed as of version Q.3.72<br>
           <b>Only trust the fixed version Q.3.72 or higher with names!</b><br>
           <br>
