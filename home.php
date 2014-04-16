@@ -1,4 +1,4 @@
-<p class="lead"><em>Namecoin</em> is a cryptocurrency which enables ubiquitous, <strong>uncensorable</strong>, and <strong>secure</strong> communications online. 
+<p class="lead"><b>Namecoin</b> is a decentralized open source information registration and transfer system based on the Bitcoin cryptocurrency.
 </p>
 <div class="row">
     <div class="col-md-6">
@@ -41,7 +41,6 @@
     </div>
         </div>
     <div class="row">
-	<? print $_SERVER['REQUEST_URI'];?>
 <p>Find more information in the <a href="http://dot-bit.org/Namecoin_Projects">dot-bit wiki</a>.</p>
 <h2>News</h2>
 <p><strong>2013-10-29</strong> A severe bug was found in the name verification code. It has been fixed as of version Q.3.72. <em>Only trust the fixed version Q.3.72 or higher with names!</em></p>
@@ -53,4 +52,7 @@
 <p>Please visit this wiki page for a list of the latest Namecoin related projects: <a href="http://dot-bit.org/Namecoin_Projects">http://dot-bit.org/Namecoin_Projects</a></p>
 <h2>Bounties</h2>
 <p>There is a <a href="http://forum.namecoin.info/viewforum.php?f=18">bounties board on the Namecoin forum</a>.</p>
+<h2>Participate</h2>
+<p>With Namecoin you can make a difference. We need backing, especially in marketing and coding.
+You are welcome at the <a href="http://forum.namecoin.info">forum</a>.</p>
  </div>

@@ -10,8 +10,11 @@ $download = $page == 'download.php' ? 'active' : '';
 $header = array('<strong>In information</strong><br />we <strong>trust</strong>.',
     'A <strong>trust anchor</strong><br />for the Internet.',
     '<strong>Against<br />censorship.</strong>',
-    '<strong>Supporting<br />free speach.</strong>',
-    'Decentralized<br /><strong>secure</strong> names.');
+    '<strong>Supporting<br />free speech.</strong>',
+    'Decentralized<br /><strong>secure</strong> names.',
+    '<b>Decentralize</b><br>all the things!',
+    '<b>Freedom</b><br>of information.'
+    );
 ?>
 
 <!DOCTYPE html>
