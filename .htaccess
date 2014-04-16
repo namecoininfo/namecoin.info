@@ -12,6 +12,3 @@ DirectoryIndex index.php
     Order Allow,Deny
     Allow from all
 </FilesMatch>
-
-RewriteEngine on
-RewriteRule ^([^/]+) index.php?page=$1 [NC]

@@ -11,10 +11,11 @@ Coming Soon!
 </div>
 </ul>
 </div>
+<br><br>
 <div class="row">
 <div class="col-md-12">
 <h3>Linux Packages</h3>
-        
+
         <iframe if="osb" seamless="seamless" style="padding:0px;border:0px none transparent;overflow:visible;  background-color: transparent; width:100% ; height:400px"  src="http://software.opensuse.org/download/iframe?project=home%3Ap_conrad%3Acoins&package=namecoin"></iframe>
         </div>
     </div>
