@@ -1,7 +1,7 @@
 <?php
 $page = 'home.php';
-if (isset($_GET['page'])) {
-    if ($_GET['page'] == 'download') $page = 'download.php';
+if (isset($_GET['p'])) {
+    if ($_GET['p'] == 'download') $page = 'download.php';
 }
 
 $home = $page == 'home.php' ? 'active' : '';
@@ -10,8 +10,11 @@ $download = $page == 'download.php' ? 'active' : '';
 $header = array('<strong>In information</strong><br />we <strong>trust</strong>.',
     'A <strong>trust anchor</strong><br />for the Internet.',
     '<strong>Against<br />censorship.</strong>',
-    '<strong>Supporting<br />free speach.</strong>',
-    'Decentralized<br /><strong>secure</strong> names.');
+    '<strong>Supporting<br />free speech.</strong>',
+    'Decentralized<br /><strong>secure</strong> names.',
+    '<b>Decentralize</b><br>all the things!',
+    '<b>Freedom</b><br>of information.'
+    );
 ?>
 
 <!DOCTYPE html>
@@ -53,13 +56,13 @@ $header = array('<strong>In information</strong><br />we <strong>trust</strong>.
                 </div>
                 <div class="navbar-collapse collapse" id="navbar-collapse">
                 <ul class="nav navbar-nav navbar-left">
-                    <li class="<?=$home?>"><a href="/home">Home</a></li>
+                    <li class="<?=$home?>"><a href=".">Home</a></li>
                     <li><a href="https://wiki.namecoin.info/index.php?title=FAQ">FAQ</a></li>
                     <li><a href="http://forum.namecoin.info">Forum</a></li>
                     <li><a href="https://wiki.namecoin.info">Wiki</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="<?=$download?>"><a href="#download"><span class="glyphicon glyphicon-download-alt"></span> Download</a></li>
+                    <li class="<?=$download?>"><a href="?p=download"><span class="glyphicon glyphicon-download-alt"></span> Download</a></li>
                 </ul>
                 </div>
             </div>

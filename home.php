@@ -1,4 +1,4 @@
-<p class="lead"><em>Namecoin</em> is a cryptocurrency which enables ubiquitous, <strong>uncensorable</strong>, and <strong>secure</strong> communications online. 
+<p class="lead"><b>Namecoin</b> is a decentralized open source information registration and transfer system based on the Bitcoin cryptocurrency.
 </p>
 <div class="row">
     <div class="col-md-6">
@@ -10,16 +10,18 @@
             <li><a href="https://wiki.namecoin.info/index.php?title=Proxies">Proxies</a> users to censored websites.</li>
         </ul>
         <p>Read about <a href="http://www.aaronsw.com/weblog/squarezooko">squaring Zooko's Triangle</a>.</p>
+        <p>Find more information in the <a href="http://wiki.namecoin.info">Namecoin wiki</a>.</p>
     </div>
     <div class="col-md-6">
         <h2>What can it be used for?        </h2>
         <p><strong>Anything</strong> you can create using a <strong>generic key/value datastore</strong>.</p>
         <ul>
             <li>Website addresses  using the <a href="https://dot-bit.org">.bit </a>domain.</li>
-            <li>Storing <a href="http://id.namecoin.info/">identity information</a> such as email, GPG key, BTC address, TLS fingerprints, etc.</li>
-            <li>Private, secure, and decentralized messaging.</li>
-            <li>Decentralized trades, escrow, and notary services.</li>
+            <li>Storing <a href="http://nameid.org">identity information</a> such as email, GPG key, BTC address, TLS fingerprints, Bitmessage address, etc.</li>
+            <li>Human readable Tor .onion names/domains.</li>
+            <li>Voting, bonds/stocks,/shares, web of trust, escrow and notary services (to be implemented).</li>
         </ul>
+    <p>Note this <a href="http://dot-bit.org/Namecoin_Projects">list of Namecoin related projects</a>.</p>
     </div>
     </div>
     <div class="row">
@@ -41,19 +43,15 @@
     </div>
         </div>
     <div class="row">
-  <div class="col-md-12" id="download">
-     <h2>Download</h2>
-    <?php include 'download.php' ?>
-</div>
-<p>Find more information in the <a href="http://dot-bit.org/Namecoin_Projects">dot-bit wiki</a>.</p>
 <h2>News</h2>
+<p><b>2014-04-20</b> Thanks to <b>Shobute</b> for designing and <b>Indolering</b> for pushing the <b>new website</b>.</p>
+<p><b>2014-04-09</b> Heartbleed : Do not use the (non default) option rpcssl=1 in the current client version as it makes your client highly vulnerable.</p>
 <p><strong>2013-10-29</strong> A severe bug was found in the name verification code. It has been fixed as of version Q.3.72. <em>Only trust the fixed version Q.3.72 or higher with names!</em></p>
-<p>For the latest news go to the <a href="http://forum.namecoin.info/">dot-bit forum</a> or check out <a href="http://reddit.com/r/namecoin">r/namecoin.</a></p>
+<p>For the latest news go to the <a href="http://forum.namecoin.info/">Namecoin forum</a> or check out <a href="http://reddit.com/r/namecoin">r/namecoin.</a></p>
 <p>Official anouncements will also be made on <a href="https://bitcointalk.org/index.php?topic=236340.0">this BitcoinTalk thread</a>.</p>
  </div>
     <div class="row">
-<h2>Namecoin Projects</h2>
-<p>Please visit this wiki page for a list of the latest Namecoin related projects: <a href="http://dot-bit.org/Namecoin_Projects">http://dot-bit.org/Namecoin_Projects</a></p>
-<h2>Bounties</h2>
-<p>There is a <a href="http://forum.namecoin.info/viewforum.php?f=18">bounties board on the Namecoin forum</a>.</p>
+<h2>Participate</h2>
+<p>With Namecoin you can make a difference. We need backing, especially in wiki editing, marketing and coding.
+You are welcome at the <a href="http://forum.namecoin.info">forum</a>. There may be <a href="http://forum.namecoin.info/viewforum.php?f=18">bounties</a>, too.</p>
  </div>
