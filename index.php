@@ -59,7 +59,7 @@ $header = array('<strong>In information</strong><br />we <strong>trust</strong>.
                     <li><a href="https://wiki.namecoin.info">Wiki</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="<?=$download?>"><a href="#download"><span class="glyphicon glyphicon-download-alt"></span> Download</a></li>
+                    <li class="<?=$download?>"><a href="/download"><span class="glyphicon glyphicon-download-alt"></span> Download</a></li>
                 </ul>
                 </div>
             </div>

@@ -41,10 +41,7 @@
     </div>
         </div>
     <div class="row">
-  <div class="col-md-12" id="download">
-     <h2>Download</h2>
-    <?php include 'download.php' ?>
-</div>
+	<? print $_SERVER['REQUEST_URI'];?>
 <p>Find more information in the <a href="http://dot-bit.org/Namecoin_Projects">dot-bit wiki</a>.</p>
 <h2>News</h2>
 <p><strong>2013-10-29</strong> A severe bug was found in the name verification code. It has been fixed as of version Q.3.72. <em>Only trust the fixed version Q.3.72 or higher with names!</em></p>
