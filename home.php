@@ -20,6 +20,7 @@
             <li>Private, secure, and decentralized messaging.</li>
             <li>Decentralized trades, escrow, and notary services.</li>
         </ul>
+    <p>Note this <a href="http://dot-bit.org/Namecoin_Projects">list of Namecoin related projects</a>.</p>
     </div>
     </div>
     <div class="row">
@@ -43,16 +44,14 @@
     <div class="row">
 <p>Find more information in the <a href="http://dot-bit.org/Namecoin_Projects">dot-bit wiki</a>.</p>
 <h2>News</h2>
+<p><b>2014-04-20</b> Thanks to Shobute for designing and Indolering for pushing the <b>new website</b>.</p>
+<p><b>2014-04-09</b> Heartbleed - client: Do not use the (non default) option rpcssl=1 in the current client version as it makes your client highly vulnerable.</p>
 <p><strong>2013-10-29</strong> A severe bug was found in the name verification code. It has been fixed as of version Q.3.72. <em>Only trust the fixed version Q.3.72 or higher with names!</em></p>
 <p>For the latest news go to the <a href="http://forum.namecoin.info/">dot-bit forum</a> or check out <a href="http://reddit.com/r/namecoin">r/namecoin.</a></p>
 <p>Official anouncements will also be made on <a href="https://bitcointalk.org/index.php?topic=236340.0">this BitcoinTalk thread</a>.</p>
  </div>
     <div class="row">
-<h2>Namecoin Projects</h2>
-<p>Please visit this wiki page for a list of the latest Namecoin related projects: <a href="http://dot-bit.org/Namecoin_Projects">http://dot-bit.org/Namecoin_Projects</a></p>
-<h2>Bounties</h2>
-<p>There is a <a href="http://forum.namecoin.info/viewforum.php?f=18">bounties board on the Namecoin forum</a>.</p>
 <h2>Participate</h2>
 <p>With Namecoin you can make a difference. We need backing, especially in marketing and coding.
-You are welcome at the <a href="http://forum.namecoin.info">forum</a>.</p>
+You are welcome at the <a href="http://forum.namecoin.info">forum</a>. There may be <a href="http://forum.namecoin.info/viewforum.php?f=18">bounties</a>, too.</p>
  </div>
