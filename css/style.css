@@ -1,13 +1,10 @@
 /* Work in progress, created by Ben <dotbitgod@gmail.com>. */
 
-@import url(http://fonts.googleapis.com/css?family=Alegreya+Sans+SC);
-@import url(http://fonts.googleapis.com/css?family=Raleway:400,700);
-
 body {
     background: #F7F7F7;
     background: #292e3c;
     font-size: 18px;
-    font-family: 'Raleway', sans-serif;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 body > header {
@@ -15,7 +12,7 @@ body > header {
 }
 
 .lead {
-    font-size: 2em;
+    font-size: 1.9em;
 }
 
 h2 {
@@ -51,7 +48,7 @@ nav ul li {
 
 #fancy-graphic p {
     font-size: 4em;
-    font-family: 'Alegreya Sans SC', sans-serif;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     color: #FFF;
     margin: 0;
     line-height: 1;

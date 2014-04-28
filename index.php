@@ -26,8 +26,8 @@ $header = array('<strong>In information</strong><br />we <strong>trust</strong>.
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Namecoin</title>
 
-    <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!--<link href="css/font-awesome.css" rel="stylesheet">-->
     <link href="css/style.css" rel="stylesheet">
     <link rel="shortcut icon" href="images/favicon.ico">
 
@@ -62,7 +62,7 @@ $header = array('<strong>In information</strong><br />we <strong>trust</strong>.
                     <li><a href="https://wiki.namecoin.info">Wiki</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="<?=$download?>"><a href="?p=download"><span class="glyphicon glyphicon-download-alt"></span> Download</a></li>
+                    <li class="<?=$download?>"><a href="?p=download"><!--span class="glyphicon glyphicon-download-alt"></span--> Download</a></li>
                 </ul>
                 </div>
             </div>
