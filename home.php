@@ -45,13 +45,14 @@
     <div class="row">
 <h2>News</h2>
 <p><b>2014-04-20</b> Thanks to <b>Shobute</b> for designing and <b>Indolering</b> for pushing the <b>new website</b>.</p>
+<p><b>2014-04-17</b> The <b>Namecoin</b> blockchain is now <b>three years old</b>. Happy birthday!</p>
 <p><b>2014-04-09</b> Heartbleed : Do not use the (non default) option rpcssl=1 in the current client version as it makes your client highly vulnerable.</p>
 <p><strong>2013-10-29</strong> A severe bug was found in the name verification code. It has been fixed as of version Q.3.72. <em>Only trust the fixed version Q.3.72 or higher with names!</em></p>
 <p>For the latest news go to the <a href="http://forum.namecoin.info/">Namecoin forum</a> or check out <a href="http://reddit.com/r/namecoin">r/namecoin.</a></p>
 <p>Official anouncements will also be made on <a href="https://bitcointalk.org/index.php?topic=236340.0">this BitcoinTalk thread</a>.</p>
  </div>
-    <div class="row">
-<h2>Participate</h2>
-<p>With Namecoin you can make a difference. We need backing, especially in wiki editing, marketing and coding.
-You are welcome at the <a href="http://forum.namecoin.info">forum</a>. There may be <a href="http://forum.namecoin.info/viewforum.php?f=18">bounties</a>, too.</p>
- </div>
+<div class="row">
+    <h2>Participate</h2>
+    <p>With <b>Namecoin</b> you can make a difference. We need your <b>help to free information</b>, especially in <a href="http://wiki.namecoin.info">wiki</a> editing, marketing and <a href="https://github.com/namecoin">coding</a>.
+    You are welcome at the <a href="http://forum.namecoin.info">forum</a>. There may be <a href="http://forum.namecoin.info/viewforum.php?f=18">bounties</a>, too.</p>
+</div>
