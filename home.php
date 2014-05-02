@@ -3,27 +3,29 @@
 <div class="row">
     <div class="col-md-6">
       <h2>What does it do?</h2>
-      <p><strong>Protects free-speech rights</strong> online by making the web more resistant to censorship.</p>
         <ul>
-            <li>Stops governments from seizing websites.</li>
-            <li>Replaces the insecure system of SSL certificate authorities.</li>
-            <li><a href="https://wiki.namecoin.info/index.php?title=Proxies">Proxies</a> users to censored websites.</li>
+            <li>Securely record and transfer arbitrary names (keys).</li>
+            <li>Attach a value (data) to the names<br> (up to 520 bytes, more in the future).</li>
+            <li>Transact namecoins, the digital currency (&#x2115;, NMC).</li>
+            <!-- Link to wiki page: properties of the namecoin blockchain-->
         </ul>
-        <p>Read about <a href="http://www.aaronsw.com/weblog/squarezooko">squaring Zooko's Triangle</a>.</p>
-        <p>Find more information in the <a href="http://wiki.namecoin.info">Namecoin wiki</a>.</p>
+        <p><b>Namecoin</b> was the first fork of <a href="https://bitcoin.org">Bitcoin</a>. It is one of the most innovative altcoins.
+        It was first to implement <a href="http://bitcoin.stackexchange.com/questions/273/how-does-merged-mining-work">merged mining</a> and
+        <a href="https://bit.namecoin.info">decentralized DNS</a>.
+        Also <b>Namecoin</b> was first to square <a href="http://www.aaronsw.com/weblog/squarezooko">Zooko's Triangle.</a></p>
     </div>
     <div class="col-md-6">
         <h2>What can it be used for?        </h2>
-        <p><strong>Anything</strong> you can create using a <strong>generic key/value datastore</strong>.</p>
         <ul>
-            <li>Website addresses  using the <a href="https://dot-bit.org">.bit </a>domain.</li>
-            <li>Storing <a href="http://nameid.org">identity information</a> such as email, GPG key, BTC address, TLS fingerprints, Bitmessage address, etc.</li>
+            <li>Protect free-speech rights online by making the web more resistant to censorship.</li>
+            <li>Access websites using the <a href="https://bit.namecoin.info">.bit</a> domain (with TLS/SSL).</li>
+            <li>Store <a href="http://nameid.org">identity information</a> such as email, GPG key, BTC address, TLS fingerprints, Bitmessage address, etc.</li>
             <li>Human readable Tor .onion names/domains.</li>
-            <li>Voting, bonds/stocks,/shares, web of trust, escrow and notary services (to be implemented).</li>
+            <li>File signatures, Voting, bonds/stocks,/shares, web of trust, escrow and notary services (to be implemented).</li>
         </ul>
-    <p>Note this <a href="http://dot-bit.org/Namecoin_Projects">list of Namecoin related projects</a>.</p>
     </div>
     </div>
+<p>Find more information in the <a href="http://wiki.namecoin.info">Namecoin wiki</a> or join us on the <a href="http://forum.namecoin.info">Namecoin forum</a>.</p>
     <div class="row">
     <div class="col-md-6">
         <h2>Donate</h2>
