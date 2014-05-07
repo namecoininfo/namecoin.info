@@ -2,10 +2,12 @@
 $page = 'home.php';
 if (isset($_GET['p'])) {
     if ($_GET['p'] == 'download') $page = 'download.php';
+    if ($_GET['p'] == 'exchanges') $page = 'exchanges.php';
 }
 
 $home = $page == 'home.php' ? 'active' : '';
 $download = $page == 'download.php' ? 'active' : '';
+$exchanges = $page == 'exchanges.php' ? 'active' : '';
 
 $header = array('<strong>In information</strong><br />we <strong>trust</strong>.',
     'A <strong>trust anchor</strong><br />for the Internet.',
@@ -63,6 +65,7 @@ $header = array('<strong>In information</strong><br />we <strong>trust</strong>.
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li class="<?=$download?>"><a href="?p=download"><!--span class="glyphicon glyphicon-download-alt"></span--> Download</a></li>
+                    <li class="<?=$exchanges?>"><a href="?p=exchanges">Exchanges</a></li>
                 </ul>
                 </div>
             </div>
