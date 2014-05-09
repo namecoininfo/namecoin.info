@@ -63,13 +63,13 @@ $header = array('<strong>In information</strong><br />we <strong>trust</strong>.
                 <ul class="nav navbar-nav navbar-left">
                     <li class="<?=$home?>"><a href=".">Home</a></li>
                     <li class="<?=$video?>"><a href="?p=video">Video</a></li>
-                    <li><a href="https://wiki.namecoin.info/index.php?title=FAQ">FAQ</a></li>
-                    <li><a href="http://forum.namecoin.info">Forum</a></li>
-                    <li><a href="https://wiki.namecoin.info">Wiki</a></li>
+                    <li class="<?=$exchanges?>"><a href="?p=exchanges">Exchanges</a></li>
+                    <li class="<?=$download?>"><a href="?p=download"><!--span class="glyphicon glyphicon-download-alt"></span--> Download</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="<?=$download?>"><a href="?p=download"><!--span class="glyphicon glyphicon-download-alt"></span--> Download</a></li>
-                    <li class="<?=$exchanges?>"><a href="?p=exchanges">Exchanges</a></li>
+                    <li><a href="http://forum.namecoin.info">Forum&#10138;</a></li>
+                    <li><a href="https://wiki.namecoin.info">Wiki&#10138;</a></li>
+                    <li><a href="https://wiki.namecoin.info/index.php?title=FAQ">FAQ&#10138;</a></li>
                 </ul>
                 </div>
             </div>
