@@ -1,12 +1,17 @@
 <?php
+// active page handling
 $page = 'home.php';
 if (isset($_GET['p'])) {
     if ($_GET['p'] == 'download') $page = 'download.php';
+    if ($_GET['p'] == 'exchanges') $page = 'exchanges.php';
+    if ($_GET['p'] == 'video') $page = 'video.php';
 }
-
 $home = $page == 'home.php' ? 'active' : '';
 $download = $page == 'download.php' ? 'active' : '';
+$exchanges = $page == 'exchanges.php' ? 'active' : '';
+$video = $page == 'video.php' ? 'active' : '';
 
+// tag lines
 $header = array('<strong>In information</strong><br />we <strong>trust</strong>.',
     'A <strong>trust anchor</strong><br />for the Internet.',
     '<strong>Against<br />censorship.</strong>',
@@ -57,12 +62,14 @@ $header = array('<strong>In information</strong><br />we <strong>trust</strong>.
                 <div class="navbar-collapse collapse" id="navbar-collapse">
                 <ul class="nav navbar-nav navbar-left">
                     <li class="<?=$home?>"><a href=".">Home</a></li>
-                    <li><a href="https://wiki.namecoin.info/index.php?title=FAQ">FAQ</a></li>
-                    <li><a href="http://forum.namecoin.info">Forum</a></li>
-                    <li><a href="https://wiki.namecoin.info">Wiki</a></li>
+                    <li class="<?=$video?>"><a href="?p=video">Video</a></li>
+                    <li class="<?=$exchanges?>"><a href="?p=exchanges">Exchanges</a></li>
+                    <li class="<?=$download?>"><a href="?p=download"><!--span class="glyphicon glyphicon-download-alt"></span--> Download</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="<?=$download?>"><a href="?p=download"><!--span class="glyphicon glyphicon-download-alt"></span--> Download</a></li>
+                    <li><a href="http://forum.namecoin.info">Forum&#10138;</a></li>
+                    <li><a href="https://wiki.namecoin.info">Wiki&#10138;</a></li>
+                    <li><a href="https://wiki.namecoin.info/index.php?title=FAQ">FAQ&#10138;</a></li>
                 </ul>
                 </div>
             </div>
