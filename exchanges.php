@@ -20,6 +20,7 @@
         <a target="_blank" href="https://24change.com">24change</a><br>
         <a target="_blank" href="https://btc-e.com">btc-e</a><br>
         <a target="_blank" href="https://coinmkt.com">coinMKT</a><br>
+        <a target="_blank" href="https://coinnext.com/">Coinnext</a><br>        
         <a target="_blank" href="https://cryptonit.net">Cryptonit</a><br>
         <a target="_blank" href="https://www.cryptsy.com">Cryptsy</a><br>
         <a target="_blank" href="http://liliontransfer.org">Lilion Transfer</a><br>
