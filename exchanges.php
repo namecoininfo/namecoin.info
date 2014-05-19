@@ -29,5 +29,6 @@
     </span>
 
         <p>Gold, silver and bronze level exchanges donate to the Namcoin project. The higher the donation the higher the level. Note that the exchanges atm are not verified in any way.<br>
-    The current fees are 1000/300/100NMC per year. To get on the list contact exchanges a|t namecoin.<b>org</b></p>
+    The current fees are 1000/300/100NMC per year*. To get on the list contact exchanges a|t namecoin.<b>org</b></p>
+    * Kraken received an honorary silver level for supporting us with their libcoin library.
 </div>
