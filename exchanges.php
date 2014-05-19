@@ -7,12 +7,12 @@
     </span>
     <span style="font-size:115%;">
         <p><b>Silver level exchanges</b></p>
-        <a target="_blank" href="https://kraken.com"><img src="https://www.kraken.com/img/logo.png"></a><br>
+        <a target="_blank" href="https://kraken.com"><img src="images/exchanges/kraken.png"></a><br>
         <br>
     </span>
     <span style="font-size:100%;">
         <p><b>Bronze level exchanges</b></p>
-        <p>...</p>
+        <a target="_blank" href="https://cryptonit.com"><img width="160px" src="images/exchanges/cryptonit.png"></a><br>
         <br>
     </span>
     <span style="font-size:85%;">
