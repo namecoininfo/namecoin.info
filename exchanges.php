@@ -12,7 +12,7 @@
     </span>
     <span style="font-size:100%;">
         <p><b>Bronze level exchanges</b></p>
-        <a target="_blank" href="https://cryptonit.com"><img width="160px" src="images/exchanges/cryptonit.png"></a> &nbsp; &nbsp; &nbsp;
+        <a target="_blank" href="https://cryptonit.net"><img width="160px" src="images/exchanges/cryptonit.png"></a> &nbsp; &nbsp; &nbsp;
         <a target="_blank" href="https://coinnext.com"><img width="160px" src="images/exchanges/coinnext_160px.png"></a><br>
         <br><br>
     </span>
