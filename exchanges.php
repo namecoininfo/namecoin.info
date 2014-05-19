@@ -20,7 +20,7 @@
         <a target="_blank" href="https://24change.com">24change</a><br>
         <a target="_blank" href="https://btc-e.com">btc-e</a><br>
         <a target="_blank" href="https://coinmkt.com">coinMKT</a><br>
-        <a target="_blank" href="https://coinnext.com/">Coinnext</a><br>        
+        <a target="_blank" href="https://coinnext.com/">Coinnext</a><br>
         <a target="_blank" href="https://cryptonit.net">Cryptonit</a><br>
         <a target="_blank" href="https://www.cryptsy.com">Cryptsy</a><br>
         <a target="_blank" href="http://liliontransfer.org">Lilion Transfer</a><br>
@@ -28,5 +28,6 @@
         <br>
     </span>
 
-    <p>Gold, silver and bronze level exchanges donate to the Namcoin project. The higher the donation the higher the level.<br>To get on the list contact exchanges a|t namecoin.<b>org</b></p>
+        <p>Gold, silver and bronze level exchanges donate to the Namcoin project. The higher the donation the higher the level. Note that the exchanges atm are not verified in any way.<br>
+    The current fees are 1000/300/100NMC per year. To get on the list contact exchanges a|t namecoin.<b>org</b></p>
 </div>
