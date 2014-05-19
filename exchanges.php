@@ -8,20 +8,19 @@
     <span style="font-size:115%;">
         <p><b>Silver level exchanges</b></p>
         <a target="_blank" href="https://kraken.com"><img src="images/exchanges/kraken.png"></a><br>
-        <br>
+        <br><br>
     </span>
     <span style="font-size:100%;">
         <p><b>Bronze level exchanges</b></p>
-        <a target="_blank" href="https://cryptonit.com"><img width="160px" src="images/exchanges/cryptonit.png"></a><br>
-        <br>
+        <a target="_blank" href="https://cryptonit.com"><img width="160px" src="images/exchanges/cryptonit.png"></a> &nbsp; &nbsp; &nbsp;
+        <a target="_blank" href=""https://coinnext.com"><img width="160px" src="images/exchanges/coinnext_160px.png"></a><br>
+        <br><br>
     </span>
     <span style="font-size:85%;">
         <b>Basic level exchanges</b><br>
         <a target="_blank" href="https://24change.com">24change</a><br>
         <a target="_blank" href="https://btc-e.com">btc-e</a><br>
         <a target="_blank" href="https://coinmkt.com">coinMKT</a><br>
-        <a target="_blank" href="https://coinnext.com/">Coinnext</a><br>
-        <a target="_blank" href="https://cryptonit.net">Cryptonit</a><br>
         <a target="_blank" href="https://www.cryptsy.com">Cryptsy</a><br>
         <a target="_blank" href="http://liliontransfer.org">Lilion Transfer</a><br>
         <a target="_blank" href="https://vircurex.com">Vircurex</a><br>
