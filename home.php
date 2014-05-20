@@ -9,10 +9,10 @@
             <li>Transact namecoins, the digital currency (&#x2115;, NMC).</li>
             <!-- Link to wiki page: properties of the namecoin blockchain-->
         </ul>
-        <p><b>Namecoin</b> was the first fork of <a href="https://bitcoin.org">Bitcoin</a>. It is one of the most innovative altcoins.
-        It was first to implement <a href="http://bitcoin.stackexchange.com/questions/273/how-does-merged-mining-work">merged mining</a> and
+        <p><b>Namecoin</b> was the first fork of <a href="https://bitcoin.org">Bitcoin</a> and still is one of the most innovative altcoins.
+        It was first to implement <a target="_blank" href="http://bitcoin.stackexchange.com/questions/273/how-does-merged-mining-work">merged mining</a> and a
         <a href="https://bit.namecoin.info">decentralized DNS</a>.
-        Also <b>Namecoin</b> was first to square <a href="http://www.aaronsw.com/weblog/squarezooko">Zooko's Triangle.</a></p>
+        <b>Namecoin</b> squares <a href="http://en.wikipedia.org/wiki/Zooko%27s_triangle">Zooko's Triangle</a>!</p>
     </div>
     <div class="col-md-6">
         <h2>What can it be used for?        </h2>
