@@ -46,6 +46,8 @@
         </div>
     <div class="row">
 <h2>News</h2>
+<p><b>2014-06-18</b> Out now: <b>Namecoin v0.3.75</b> - <a target="_blank" href="http://forum.namecoin.info/viewtopic.php?f=8&t=1865">Release info</a> -
+<a href="?p=download">Download</a></p>
 <p><b>2014-04-20</b> Thanks to <b>Shobute</b> for designing and <b>Indolering</b> for pushing the <b>new website</b>.</p>
 <p><b>2014-04-17</b> The <b>Namecoin</b> blockchain is now <b>three years old</b>. Happy birthday!</p>
 <p><b>2014-04-09</b> Heartbleed : Do not use the (non default) option rpcssl=1 in the current client version as it makes your client highly vulnerable.</p>
